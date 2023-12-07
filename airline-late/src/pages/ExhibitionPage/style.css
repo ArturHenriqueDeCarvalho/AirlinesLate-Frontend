@@ -1,0 +1,10 @@
+.form-exhibition {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+.exhibition-page-background {
+  background-color: #87ceeb;
+}
